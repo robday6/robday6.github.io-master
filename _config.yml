@@ -1,12 +1,12 @@
 # Site settings
-title: "rob-day.co.uk"
+title: "Rob Day"
 email: rob.day@live.com
 description: > # this means to ignore newlines until "baseurl:"
   fffabs &copy 2015 - go create!
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "www.##.com" # the base hostname & protocol for your site
-twitter_username: fffabs
-github_username:  toxinide
+twitter_username: robday6
+github_username:  robday6
 
 # Build settings
 markdown: kramdown
